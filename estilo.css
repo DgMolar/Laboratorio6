@@ -16,9 +16,13 @@ li{
     margin-right: 30px;
 }
 
-img{
+.imgprin{
     width: 900px;
     height: 400px;
     margin: 0 auto;
     display: block;
+}
+.img-bio{
+    width: 200px;
+    height: 300px;
 }
